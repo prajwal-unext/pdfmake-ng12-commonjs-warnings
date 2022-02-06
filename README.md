@@ -1,5 +1,9 @@
 # PdfmakeNgWarnings
 
+## This repo reproduces the warning caused by consuming pdfmake in an angular 12+ project.
+more info: https://github.com/bpampuch/pdfmake/issues/2388
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
 ## Development server
